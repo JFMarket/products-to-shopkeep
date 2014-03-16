@@ -1,7 +1,7 @@
 #JFM
 ## Products to ShopKeep
 
-This script converts the file `products-fixed-units.csv` from the format `Name,Grower,Retail Price,Unit,Available,Estimate or Exact,Description` to the CSV format accepted by ShopKeep and stores it in `products-importable-to-shopkeep.csv`.
+This script converts the file `products-fixed-units.csv` from the format `Name,Grower,Retail Price,Unit,Available,Estimate or Exact,Description` to the CSV [format](http://help.shopkeep.com/customer/portal/articles/1221292-imports-add-modify-delete-inventory) accepted by ShopKeep and stores it in `products-importable-to-shopkeep.csv`.
 
 ## Usage
 
